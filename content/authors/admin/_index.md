@@ -77,10 +77,5 @@ email: ""
 # - Visitors
 ---
 
-I am a Ph.D. candidate at Iowa State University. I am co-majoring in applied mathematics and computer engineering and minoring in statistics. The [Center for Statistics and Applications in Forensic Evidence](https://forensicstats.org)
+I am a Ph.D. candidate at Iowa State University co-majoring in applied mathematics and computer engineering and minoring in statistics. I have worked for the [Center for Statistics and Applications in Forensic Evidence](https://forensicstats.org) as a graduate research assistant for four years now, conducting research in steganalysis and camera device identification. Steganalysis seeks to identify data hidden within digital images. The goal of camera device identification is to determine which camera took a particular digital image. In my reasearch, I apply machine learning techniques and statistical models to these problems to make current techniques more efficient in practice and more suitable for presentation as evidence in court.
 
-
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
