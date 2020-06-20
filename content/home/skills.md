@@ -15,6 +15,12 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
+  icon = "project-diagram"
+  icon_pack = "fas"
+  name = "maching learning"
+  #description = "10%"
+
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
