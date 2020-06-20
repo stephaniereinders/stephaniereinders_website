@@ -46,5 +46,6 @@ date_format = "Jan 2006"
   * Lead instructor for two sections of College Algebra for two semesters. Delivering weekly lectures on new material and writing and grading quizzes and exams.
   * Teaching assistant for Digital Image Forensics, Discrete Mathematics for Business and Social Sciences, Pre-calculus, Differential Equations. Leading weekly recitations, proctoring quizzes, answering questions on the material, and grading quizzes and exams.
 
+  """
 
 +++
