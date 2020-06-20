@@ -21,16 +21,16 @@ subtitle = ""
   #description = "90%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "github"
   icon_pack = "fab"
-  name = "github"
+  name = "GitHub"
   #description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "matlab"
+  icon_pack = "custom"
+  name = "MATLAB"
+  #description = "10%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
