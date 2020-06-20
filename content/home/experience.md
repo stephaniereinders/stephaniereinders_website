@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Graduate Research Assistant"
-  company = "Iowa State University and Center for Statistics and Applications in Forensic Evidence"
+  company = "Center for Statistics and Applications in Forensic Evidence at Iowa State University"
   company_url = "https://forensicstats.org"
   location = "Iowa"
   date_start = "2016-06-01"
@@ -27,10 +27,10 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Conducted experiments for score-based likelihood ratios and steganalysis in MATLAB with data visualizations created in R.
-  * Applied score-based likelihood ratios – a statistical tool for quantifying the weight of evidence – to camera device identification to increase the transparency of results for use in court.
-  * Created novel machine learning technique for steganalysis – detecting hidden data in digital images – that reduces the amount of necessary training time and image data. 
-  * Adapted experiment code to run in parallel computing environment on servers using Slurm job scheduler.
+  * Conducting experiments for score-based likelihood ratios and steganalysis in MATLAB with data visualizations created in R.
+  * Applying score-based likelihood ratios – a statistical tool for quantifying the weight of evidence – to camera device identification to increase the transparency of results for use in court.
+  * Creating novel machine learning technique for steganalysis – detecting hidden data in digital images – that reduces the amount of necessary training time and image data. 
+  * Adapting experiment code to run in parallel computing environment on servers using Slurm job scheduler.
 
   """
 
