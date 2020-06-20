@@ -47,5 +47,22 @@ date_format = "Jan 2006"
   * Teaching assistant for Digital Image Forensics, Discrete Mathematics for Business and Social Sciences, Pre-calculus, Differential Equations. Leading weekly recitations, proctoring quizzes, answering questions on the material, and grading quizzes and exams.
 
   """
+  
+  [[experience]]
+  title = "Co-Leader"
+  company = "Ames  Chapter of R-Ladies Global"
+  company_url = "https://www.meetup.com/rladies-ames/"
+  location = "Iowa"
+  date_start = "2019-09-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  * Co-led weekly TidyTuesday meetings, where participants worked as a group to explore new datasets in RStudio. The meetings focused on providing a comfortable and fun environment for participants to ask questions and learn new R programming skills from each other. 
+  * Led workshop on how to use Github with RStudio.
+
+
+  """
+
+
 
 +++
