@@ -19,6 +19,12 @@ subtitle = ""
   icon_pack = "fas"
   name = "maching learning"
   #description = "10%"
+  
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "data visualization"
+  #description = "10%"
 
 [[feature]]
   icon = "r-project"
