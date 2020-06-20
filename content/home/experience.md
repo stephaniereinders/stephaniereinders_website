@@ -18,18 +18,20 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Graduate Research Assistant"
+  company = "Iowa State University and Center for Statistics and Applications in Forensic Evidence"
+  company_url = "https://forensicstats.org"
+  location = "Iowa"
+  date_start = "2016-06-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Conducted experiments for score-based likelihood ratios and steganalysis in MATLAB with data visualizations created in R.
+  * Applied score-based likelihood ratios – a statistical tool for quantifying the weight of evidence – to camera device identification to increase the transparency of results for use in court.
+  * Created novel machine learning technique for steganalysis – detecting hidden data in digital images – that reduces the amount of necessary training time and image data. 
+  * Adapted experiment code to run in parallel computing environment on servers using Slurm job scheduler.
+
   """
 
 [[experience]]
