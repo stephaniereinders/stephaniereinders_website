@@ -57,7 +57,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Responsibilities include:
-  * Co-led weekly TidyTuesday meetings, where participants worked as a group to explore new datasets in RStudio. The meetings focused on providing a comfortable and fun environment for participants to ask questions and learn new R programming skills from each other. 
+  * Co-led weekly [TidyTuesday](https://github.com/rfordatascience/tidytuesday) meetings, where participants worked as a group to explore new datasets in RStudio. The meetings focused on providing a comfortable and fun environment for participants to ask questions and learn new R programming skills from each other. 
   * Led workshop on how to use Github with RStudio.
 
 
