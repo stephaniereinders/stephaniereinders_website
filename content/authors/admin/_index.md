@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Stephanie Reinders
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,37 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. Canditate in Applied Mathematics and Computer Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Iowa State University
+  url: "https://www.iastate.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include machine learning and data visualization.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- machine learning
+- data visualization
+- mathematics and statistics
+- digital image forensics, steganalysis, and camera device identification
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Applied Mathematics and Computer Engineering
+    institution: Iowa State University
+    year: August 2020
+  - course: Post-baccalaureate Certificate Mathematics                          
+    institution: Smith College
+    year: 2013
+  - course: B.A. Journalism and Asian Languages and Literatures                 
+    institution: University of Minnesota
+    year: 2005
+  - course: A.A. Multimedia and Computer Graphics                 
+    institution: Globe College                  
+    year: 2000
+    
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
