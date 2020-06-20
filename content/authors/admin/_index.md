@@ -77,6 +77,10 @@ email: ""
 # - Visitors
 ---
 
+I am a Ph.D. candidate at Iowa State University. I am co-majoring in applied mathematics and computer engineering and minoring in statistics. The [Center for Statistics and Applications in Forensic Evidence](https://forensicstats.org)
+
+
+
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
