@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Applied Mathematics and Computer Engineering
+  - course: Ph.D. in Applied Mathematics and Computer Engineering
     institution: [Iowa State University](https://www.iastate.edu)
     year: August 2020
   - course: Post-baccalaureate in Certificate Mathematics                       
