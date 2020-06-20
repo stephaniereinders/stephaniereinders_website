@@ -35,12 +35,16 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Graduate Teaching Assistant"
+  company = "Department of Mathematics at Iowa State University"
+  company_url = "https://math.iastate.edu"
+  location = "Iowa"
+  date_start = "2014-08-15"
+  date_end = "2016-06-01"
+  description = """
+  Responsibilities include:
+  * Lead instructor for two sections of College Algebra for two semesters. Delivering weekly lectures on new material and writing and grading quizzes and exams.
+  * Teaching assistant for Digital Image Forensics, Discrete Mathematics for Business and Social Sciences, Pre-calculus, Differential Equations. Leading weekly recitations, proctoring quizzes, answering questions on the material, and grading quizzes and exams.
+
 
 +++
