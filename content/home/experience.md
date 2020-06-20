@@ -74,7 +74,7 @@ date_format = "Jan 2006"
   """
   
 [[experience]]
-  title = "Graduate Committee Liaison & Communications Officer"
+  title = "Graduate Committee Liaison and Communications Officer"
   company = "Math Graduate Student Organization at Iowa State University"
   company_url = ""
   location = "Iowa"
