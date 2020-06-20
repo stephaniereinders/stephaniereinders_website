@@ -29,16 +29,16 @@ interests:
 education:
   courses:
   - course: PhD in Applied Mathematics and Computer Engineering
-    institution: Iowa State University
+    institution: [Iowa State University](https://www.iastate.edu)
     year: August 2020
   - course: Post-baccalaureate Certificate Mathematics                          
-    institution: Smith College
+    institution: [Smith College](https://www.smith.edu)
     year: 2013
   - course: B.A. Journalism and Asian Languages and Literatures                 
-    institution: University of Minnesota
+    institution: [University of Minnesota](https://twin-cities.umn.edu)
     year: 2005
   - course: A.A. Multimedia and Computer Graphics                 
-    institution: Globe College                  
+    institution: [Globe College](https://www.ohe.state.mn.us/mPg.cfm?pageID=2213)
     year: 2000
     
 
