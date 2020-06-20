@@ -29,7 +29,7 @@ interests:
 education:
   courses:
   - course: Ph.D. in Applied Mathematics and Computer Engineering
-    institution: Iowa State University
+    institution: [Iowa State University](https://www.iastate.edu)
     year: August 2020
   - course: Post-baccalaureate in Certificate Mathematics                       
     institution: Smith College
