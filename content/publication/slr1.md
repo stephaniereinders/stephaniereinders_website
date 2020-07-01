@@ -1,11 +1,11 @@
 +++
-title = "A publication title, such as title of a paper"
+title = "Algorithm Mismatch in Spatial Steganalysis"
 
 # Date first published.
-date = "2013-07-01"
+date = "2019"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["First author's name", "Second author's name"]
+authors = ["Stephanie Reinders", "Li Lin", "Yong Guan", "Min Wu", "Jennifer Newman"]
 
 # Publication type.
 # Legend:
@@ -19,8 +19,8 @@ authors = ["First author's name", "Second author's name"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
-publication_short = "In *ICA*"
+publication = "In *Electronic Imaging*"
+publication_short = "In *EI*"
 
 # Abstract and optional shortened version.
 abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
@@ -39,7 +39,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "p"
+url_pdf = "https://www.ingentaconnect.com/contentone/ist/ei/2019/00002019/00000005/art00010?crawler=true&mimetype=application/pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -62,8 +62,8 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/Matlab_Logo.png"
-caption = "My caption 😄"
+image = ""
+caption = "steganalysis"
 
 +++
 
