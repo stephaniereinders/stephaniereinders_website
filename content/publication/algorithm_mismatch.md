@@ -2,7 +2,7 @@
 title = "Algorithm Mismatch in Spatial Steganalysis"
 
 # Date first published.
-date = "2019"
+date = "2019-02-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Stephanie Reinders", "Li Lin", "Yong Guan", "Min Wu", "Jennifer Newman"]
@@ -23,8 +23,9 @@ publication = "In *Electronic Imaging*"
 publication_short = "In *EI*"
 
 # Abstract and optional shortened version.
-abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
-abstract_short = "A short version of the abstract."
+abstract = "The number and availability of stegonographic embedding algorithms continues to grow. Many traditional blind steganalysis frameworks require training examples from every embedding algorithm, but collecting, storing and processing representative examples of each algorithm can quickly become untenable. Our motivation for this paper is to create a straight-forward, non- data-intensive framework for blind steganalysis that only requires examples of cover images and a single embedding algorithm for training. Our blind steganalysis framework addresses the case of algorithm mismatch, where a classifier is trained on one algorithm and tested on another, with four spatial embedding algorithms: LSB matching, MiPOD, S-UNIWARD and WOW.
+We use RAW image data from the BOSSbase database and and data collected from six iPhone devices. Ensemble Classifiers with Spatial Rich Model features are trained on a single embedding algorithm and tested on each of the four algorithms. Classifiers trained on MiPOD, S-UNIWARD and WOW data achieve decent error rates when testing on all four algorithms. Most notably, an Ensemble Classifier with an adjusted decision threshold trained on LSB matching data achieves decent detection results on MiPOD, S-UNIWARD and WOW data."
+abstract_short = "We present a novel blind steganalysis framework that does not require large amounts of training data."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -66,5 +67,3 @@ image = ""
 caption = "steganalysis"
 
 +++
-
-Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page.
