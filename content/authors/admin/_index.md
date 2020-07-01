@@ -64,7 +64,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: file
   icon_pack: fas
-  link: files/resume.pdf
+  link: files/resume_nophone.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -76,5 +76,5 @@ email: ""
 # - Visitors
 ---
 
-I am a Ph.D. candidate at Iowa State University co-majoring in applied mathematics and computer engineering and minoring in statistics. I started working for the [Center for Statistics and Applications in Forensic Evidence](https://forensicstats.org) as a graduate research assistant in 2016. In my reasearch, I apply machine learning techniques and statistical methods to digital image forensic problems to make current techniques more efficient in practice and more suitable for presentation as evidence in court.
+I am a Ph.D. candidate at Iowa State University co-majoring in applied mathematics and computer engineering and minoring in statistics. I started working for the [Center for Statistics and Applications in Forensic Evidence](https://forensicstats.org) as a graduate research assistant in 2016. In my reasearch, I apply machine learning techniques and statistical methods to digital image forensic problems to make techniques more efficient in practice and more suitable for presentation as evidence in court.
 
