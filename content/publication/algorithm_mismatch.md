@@ -7,6 +7,9 @@ date = "2019-02-01"
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Stephanie Reinders", "Li Lin", "Yong Guan", "Min Wu", "Jennifer Newman"]
 
+# Feature publication
+featured = true
+
 # Publication type.
 # Legend:
 # 0 = Uncategorized
