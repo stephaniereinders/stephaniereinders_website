@@ -38,8 +38,8 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = ""
-url_preprint = "https://arxiv.org/abs/1409.1481"
+url_pdf = "https://arxiv.org/pdf/1409.1481.pdf"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
