@@ -65,5 +65,3 @@ image = ""
 caption = "combinatorics"
 
 +++
-
-This paper has been accepted by the conference for publication, but has not yet been published.
