@@ -1,5 +1,5 @@
 +++
-title = "Integer generalized splines"
+title = "Bases and structure constants of generalized splines with integer coefficients on cycles"
 
 # Date first published.
 date = "2015-01-31"
