@@ -39,7 +39,7 @@ education:
     year: 2005
   - course: A.A. in Multimedia and Computer Graphics                 
     institution: Globe College
-    year: 2000
+    year: 2001
     
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
