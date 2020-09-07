@@ -76,5 +76,5 @@ email: ""
 # - Visitors
 ---
 
-I recently completed my PhD at Iowa State University in applied mathematics and computer engineering and minoring in statistics. While at Iowa State, I worked for the [Center for Statistics and Applications in Forensic Evidence](https://forensicstats.org) as a graduate research assistant. In my reasearch, I applied machine learning techniques and statistical methods to digital image forensic problems to make techniques more efficient in practice and more suitable for presentation as evidence in court.
+I recently completed my PhD in applied mathematics and computer engineering with a minor in statistics at Iowa State University. While at Iowa State, I worked for the [Center for Statistics and Applications in Forensic Evidence](https://forensicstats.org) as a graduate research assistant. In my reasearch, I applied machine learning techniques and statistical methods to digital image forensic problems to make techniques more efficient in practice and more suitable for presentation as evidence in court.
 
