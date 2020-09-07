@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   company_url = "https://www.meetup.com/rladies-ames/"
   location = "Iowa"
   date_start = "2019-09-01"
-  date_end = ""
+  date_end = "2020-05-15"
   description = """
   Responsibilities include:
   * Co-led weekly [TidyTuesday](https://github.com/rfordatascience/tidytuesday) meetings, where participants worked as a group to explore new datasets in RStudio. The meetings focused on providing a comfortable and fun environment for participants to ask questions and learn new R programming skills from each other. 
