@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://forensicstats.org"
   location = "Iowa"
   date_start = "2016-06-01"
-  date_end = ""
+  date_end = "2020-08-15"
   description = """
   Responsibilities include:
   
