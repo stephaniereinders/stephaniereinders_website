@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include machine learning and data visualization.
 
 interests:
-- machine learning
 - data science
-- mathematics and statistics
+- machine learning
+- applied mathematics and statistics
 - digital image forensics, steganalysis, and camera device identification
 
 education:
