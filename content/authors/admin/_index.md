@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Canditate in Applied Mathematics and Computer Engineering
+role: Ph.D. in Applied Mathematics and Computer Engineering from
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,7 @@ bio: My research interests include machine learning and data visualization.
 
 interests:
 - machine learning
-- data visualization
+- data science
 - mathematics and statistics
 - digital image forensics, steganalysis, and camera device identification
 
@@ -31,10 +31,10 @@ education:
   - course: Ph.D. in Applied Mathematics and Computer Engineering
     institution: Iowa State University
     year: August 2020
-  - course: Post-baccalaureate in Certificate Mathematics                       
+  - course: Post-baccalaureate in Certificate Mathematics                   
     institution: Smith College
     year: 2013
-  - course: B.A. in Journalism and Asian Languages and Literatures              
+  - course: B.A. in Journalism and Asian Languages and Literatures          
     institution: University of Minnesota
     year: 2005
   - course: A.A. in Multimedia and Computer Graphics                 
@@ -76,5 +76,5 @@ email: ""
 # - Visitors
 ---
 
-I am a Ph.D. candidate at Iowa State University co-majoring in applied mathematics and computer engineering and minoring in statistics. I started working for the [Center for Statistics and Applications in Forensic Evidence](https://forensicstats.org) as a graduate research assistant in 2016. In my reasearch, I apply machine learning techniques and statistical methods to digital image forensic problems to make techniques more efficient in practice and more suitable for presentation as evidence in court.
+I recently completed my PhD at Iowa State University in applied mathematics and computer engineering and minoring in statistics. While at Iowa State, I worked for the [Center for Statistics and Applications in Forensic Evidence](https://forensicstats.org) as a graduate research assistant. In my reasearch, I applied machine learning techniques and statistical methods to digital image forensic problems to make techniques more efficient in practice and more suitable for presentation as evidence in court.
 
