@@ -135,7 +135,7 @@ tree.plot_tree(T, feature_names=iris['feature_names'])
 
 
 
-![png](output_7_1.png)
+![decision tree](output_7_1.png)
 
 
 The tree is too small to read any of the labels. We can make the plot bigger by displaying it as a figure and setting the figure size.
@@ -149,7 +149,7 @@ plt.show()
 ```
 
 
-![png](my-article-test/output_9_0.png)
+![png](output_9_0.png)
 
 
 ### Feature Importance
