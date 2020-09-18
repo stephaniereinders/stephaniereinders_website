@@ -149,7 +149,7 @@ plt.show()
 ```
 
 
-![png](output_9_0.png)
+![png](my-article-test/output_9_0.png)
 
 
 ### Feature Importance
