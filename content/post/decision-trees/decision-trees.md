@@ -112,30 +112,7 @@ We can plot the decision tree using tree.plot_tree() from sklearn.
 ```python
 tree.plot_tree(T, feature_names=iris['feature_names'])
 ```
-
-
-
-
-    [Text(167.4, 195.696, 'petal width (cm) <= 0.8\ngini = 0.667\nsamples = 112\nvalue = [37, 37, 38]'),
-     Text(141.64615384615385, 152.208, 'gini = 0.0\nsamples = 37\nvalue = [37, 0, 0]'),
-     Text(193.15384615384616, 152.208, 'petal width (cm) <= 1.75\ngini = 0.5\nsamples = 75\nvalue = [0, 37, 38]'),
-     Text(103.01538461538462, 108.72, 'petal length (cm) <= 4.95\ngini = 0.142\nsamples = 39\nvalue = [0, 36, 3]'),
-     Text(51.50769230769231, 65.232, 'petal width (cm) <= 1.65\ngini = 0.056\nsamples = 35\nvalue = [0, 34, 1]'),
-     Text(25.753846153846155, 21.744, 'gini = 0.0\nsamples = 34\nvalue = [0, 34, 0]'),
-     Text(77.26153846153846, 21.744, 'gini = 0.0\nsamples = 1\nvalue = [0, 0, 1]'),
-     Text(154.52307692307693, 65.232, 'petal width (cm) <= 1.55\ngini = 0.5\nsamples = 4\nvalue = [0, 2, 2]'),
-     Text(128.76923076923077, 21.744, 'gini = 0.0\nsamples = 2\nvalue = [0, 0, 2]'),
-     Text(180.27692307692308, 21.744, 'gini = 0.0\nsamples = 2\nvalue = [0, 2, 0]'),
-     Text(283.2923076923077, 108.72, 'petal length (cm) <= 4.85\ngini = 0.054\nsamples = 36\nvalue = [0, 1, 35]'),
-     Text(257.53846153846155, 65.232, 'sepal length (cm) <= 5.95\ngini = 0.444\nsamples = 3\nvalue = [0, 1, 2]'),
-     Text(231.7846153846154, 21.744, 'gini = 0.0\nsamples = 1\nvalue = [0, 1, 0]'),
-     Text(283.2923076923077, 21.744, 'gini = 0.0\nsamples = 2\nvalue = [0, 0, 2]'),
-     Text(309.04615384615386, 65.232, 'gini = 0.0\nsamples = 33\nvalue = [0, 0, 33]')]
-
-
-
-
-![decision tree](output_7_1.png)
+![decision tree](decision_tree_small.png)
 
 
 The tree is too small to read any of the labels. We can make the plot bigger by displaying it as a figure and setting the figure size.
