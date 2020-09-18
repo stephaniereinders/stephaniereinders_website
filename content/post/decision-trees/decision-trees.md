@@ -112,7 +112,7 @@ We can plot the decision tree using tree.plot_tree() from sklearn.
 ```python
 tree.plot_tree(T, feature_names=iris['feature_names'])
 ```
-![decision tree]("decision_tree_small.png")
+![decision tree](/decision_tree_small.png)
 
 
 The tree is too small to read any of the labels. We can make the plot bigger by displaying it as a figure and setting the figure size.
