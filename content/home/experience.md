@@ -47,18 +47,5 @@ date_format = "Jan 2006"
   * Teaching assistant for Digital Image Forensics, Discrete Mathematics for Business and Social Sciences, Pre-calculus, Differential Equations. Leading weekly recitations, proctoring quizzes, answering questions on the material, and grading quizzes and exams.
 
   """
-  
-[[experience]]
-  title = "Graduate Student Mentor for Research Experience for Undergaduates"
-  company = "Center for Statistics and Applications in Forensic Evidence at Iowa State University"
-  company_url = "https://forensicstats.org"
-  location = "Iowa"
-  date_start = "2017-05-15"
-  date_end = "2017-08-15"
-  description = """
-  Responsibilities include:
-  * Led team of five undergraduate student researchers in 8-week steganalysis project.
-
-  """
 
 +++
