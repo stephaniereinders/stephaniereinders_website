@@ -26,9 +26,9 @@ date_format = "Jan 2006"
   date_end = "2020-08-15"
   description = """
 
-  * Conducted experiments for score-based likelihood ratios and steganalysis in MATLAB with data visualizations created in R.
   * Applied score-based likelihood ratios – a statistical tool for quantifying the weight of evidence – to camera device identification to increase the transparency of results for use in court.
   * Created novel machine learning technique for steganalysis – detecting hidden data in digital images – that reduces the amount of necessary training time and image data. 
+  * Conducted experiments for score-based likelihood ratios and steganalysis in MATLAB with data visualizations created in R.
   * Adapted experiment code to run in parallel computing environment on servers using Slurm job scheduler.
   * Led team of 5 undergraduate students in an 8-week steganalysis project.
 
@@ -42,7 +42,6 @@ date_format = "Jan 2006"
   date_start = "2014-08-15"
   date_end = "2016-06-01"
   description = """
-  Responsibilities include:
   * Lead instructor for two sections of College Algebra for two semesters. Delivering weekly lectures on new material and writing and grading quizzes and exams.
   * Teaching assistant for Digital Image Forensics, Discrete Mathematics for Business and Social Sciences, Pre-calculus, Differential Equations. Leading weekly recitations, proctoring quizzes, answering questions on the material, and grading quizzes and exams.
 
