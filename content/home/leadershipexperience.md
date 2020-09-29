@@ -27,7 +27,6 @@ date_format = "Jan 2006"
   date_start = "2019-09-01"
   date_end = "2020-05-15"
   description = """
-  Responsibilities include:
   * Co-led weekly [TidyTuesday](https://github.com/rfordatascience/tidytuesday) meetings, where participants worked as a group to explore new datasets in RStudio. The meetings focused on providing a comfortable and fun environment for participants to ask questions and learn new R programming skills from each other. 
   * Led workshop on how to use Github with RStudio.
   
@@ -41,7 +40,6 @@ date_format = "Jan 2006"
   date_start = "2015-08-15"
   date_end = "2017-05-15"
   description = """
-  Responsibilities include:
   * Served as the math graduate student representative to the Math Graduate Committee.
   * Communicated graduate student concerns to the Math Graduate Committee.
   * Surveyed current math graduate students on qualifying exam experiences. The results of the survey played an integral part in the Math Graduate Committees decision to restructure the qualifying exams.
