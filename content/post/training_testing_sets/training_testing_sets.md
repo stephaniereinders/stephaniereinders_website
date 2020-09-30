@@ -1,7 +1,7 @@
 +++
 title = "Create training and test sets"
 
-summary = "In this tutorial I show how to create training and test sets using scikit-learn in Python."
+summary = "In this tutorial I show how to separate a dataset into training and test sets using scikit-learn in Python and the Iris dataset."
 
 date = "2020-09-30"
 
@@ -52,8 +52,7 @@ caption = "training and test sets"
 
 +++
 
-In this tutorial I show how to create training and test sets using <span style="font-family:Courier">scikit-learn</span> in Python.
-
+In this tutorial I show how to separate a dataset into training and test sets using <span style="font-family:Courier">scikit-learn</span> in Python and the Iris dataset.
 
 > * [Get Started](#get_started)
 > * [Load the Iris Dataset](#load)
