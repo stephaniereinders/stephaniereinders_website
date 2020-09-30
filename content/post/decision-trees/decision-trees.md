@@ -50,7 +50,7 @@ caption = "decision trees"
 
 +++
 
-I recently learned how to create decision trees using scikit-learn in Python. In this tutorial, I will walk you through the steps that I took to build a decision tree on the Iris data set. 
+I recently learned how to create decision trees using scikit-learn in Python. In this tutorial, I will walk you through the steps that I took to build a decision tree on the Iris dataset. 
 
 *I used the following sources to learn how to write the code contained in this tutorial:* 
 1. Introduction to Machine Learning with Python by Andreas C. Muller and Sarah Guido (2017)
