@@ -1,7 +1,7 @@
 +++
 title = "Create training and test sets"
 
-summary = "In this tutorial I show how to create training and test sets using <span style="font-family:Courier">scikit-learn</span> in Python."
+summary = "In this tutorial I show how to create training and test sets using scikit-learn in Python."
 
 date = "2020-09-30"
 
